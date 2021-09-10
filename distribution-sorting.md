@@ -109,7 +109,7 @@ Now that you know the ranges for each button, you can do some arithmetic to figu
 
 ***How can I guarantee that combining the buckets will yield a sorted list?***:
 
-This all boils down to whether or not you placed your items in the appropriate buckets. The rule is that every item in a bucket should be less than every item in a proceeding bucket. Once every bucket is sorted, you will see that the last item in every bucket is always less than the first item in the next bucket!
+This all boils down to whether or not you placed your items in the appropriate buckets. The rule is that every item in a bucket should be less than every item in a subsequent bucket. Once every bucket is sorted, you will see that the last item in every bucket is always less than the first item in the next bucket!
 
 <br>
 
