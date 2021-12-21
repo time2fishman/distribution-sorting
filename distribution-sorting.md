@@ -4,8 +4,8 @@
 ## Learning Objectives
 <br>
 
-- Students Will Be Able To:
-	- Explain the concept of distribution sorts
+Students Will Be Able To:
+    - Explain the concept of distribution sorts
     - Explain how buckets sorts work
     - Explain how radix sorts work
     - Explain the time complexity of bucket sorts
@@ -26,10 +26,9 @@ ___
 
 * Clone down the starter code, install dependencies, and cd into project:
 ```
-    $ git clone https://git.generalassemb.ly/shaw-kitajima/GA-Post-Course-CS.git
-    $ cd GA-Post-Course-CS/
+    $ git clone <ssh-url>
+    $ cd distribution-sorting
     $ npm i
-    $ cd distribution-sorting/
 ```
 
 * run the tests
